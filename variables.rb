@@ -7,3 +7,6 @@ rubys_age = 8
 my_exact_age = 27.1
 camdens_exact_age = 0.9
 rubys_exact_age = 8.7
+adrian_over_5 = true
+camden_over_5 = false
+ruby_over_5 = true
