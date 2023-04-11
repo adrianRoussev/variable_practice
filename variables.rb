@@ -4,3 +4,6 @@ dogs_names = "camden and ruby"
 my_age = 27
 camdens_age = 1
 rubys_age = 8
+my_exact_age = 27.1
+camdens_exact_age = 0.9
+rubys_exact_age = 8.7
